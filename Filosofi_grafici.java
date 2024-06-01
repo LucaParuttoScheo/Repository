@@ -526,6 +526,8 @@ f5.start();
 		contentPane.add(ciotola_1_1);
 		
 		//ciao prova di commento
+		// prove del secondo
+		// commentttiiiiiii
 		
 		JLabel ciotola_1_1_1 = new JLabel("");
 		ciotola_1_1_1.setIcon(new ImageIcon(cio));
